@@ -1,0 +1,6 @@
+{
+  "name": "Dijalekat Detektor",
+  "description": "Ekstrakcija reči i izraza koji pripadaju dijalektima srpskog jezika iz audio snimaka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
